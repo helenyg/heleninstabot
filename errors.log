@@ -1,0 +1,426 @@
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:Except on like!
+Traceback (most recent call last):
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 384, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 380, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1321, in getresponse
+    response.begin()
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 296, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 257, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\ssl.py", line 1052, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\ssl.py", line 911, in read
+    return self._sslobj.read(len, buffer)
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\requests\adapters.py", line 449, in send
+    timeout=timeout
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\retry.py", line 367, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\packages\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 384, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 380, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1321, in getresponse
+    response.begin()
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 296, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 257, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\ssl.py", line 1052, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\ssl.py", line 911, in read
+    return self._sslobj.read(len, buffer)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 733, in like
+    like = self.s.post(url_likes)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\requests\sessions.py", line 581, in post
+    return self.request('POST', url, data=data, json=json, **kwargs)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\requests\adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\response.py", line 360, in _error_catcher
+    yield
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\response.py", line 442, in read
+    data = self._fp.read(amt)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 447, in read
+    n = self.readinto(b)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 491, in readinto
+    n = self.fp.readinto(b)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\ssl.py", line 1052, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\ssl.py", line 911, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\requests\models.py", line 750, in generate
+    for chunk in self.raw.stream(chunk_size, decode_content=True):
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\response.py", line 494, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\response.py", line 459, in read
+    raise IncompleteRead(self._fp_bytes_read, self.length_remaining)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\contextlib.py", line 130, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\response.py", line 378, in _error_catcher
+    raise ProtocolError('Connection broken: %r' % e, e)
+urllib3.exceptions.ProtocolError: ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 523, in get_media_id_by_tag
+    r = self.s.get(url_tag)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\requests\sessions.py", line 546, in get
+    return self.request('GET', url, **kwargs)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\requests\sessions.py", line 686, in send
+    r.content
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\requests\models.py", line 828, in content
+    self._content = b''.join(self.iter_content(CONTENT_CHUNK_SIZE)) or b''
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\site-packages\requests\models.py", line 753, in generate
+    raise ChunkedEncodingError(e)
+requests.exceptions.ChunkedEncodingError: ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "C:\Users\helen\Documents\instabot.py-2337ad9756fb1c0e39c17398fcd959e699a043c2\src\instabot.py", line 524, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\helen\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
