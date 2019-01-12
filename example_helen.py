@@ -26,7 +26,7 @@ bot = InstaBot(
     unfollow_break_min=15,
     unfollow_break_max=30,
     log_mod=0,
-    proxy='',
+    proxy='proxyuser16190:9ry2naibhh@168.91.95.233:21315',
     # List of list of words, each of which will be used to generate comment
     # For example: "This shot feels wow!"
     comment_list=[["this", "the", "your"],
